@@ -1,0 +1,23 @@
+{
+  "properties": {
+    "id": {
+      "type": "long"
+    },
+    "name": {
+      "type": "text"
+    },
+    "price": {
+      "type": "double"
+    },
+    "attributes": {
+      "type": "object"
+    },
+    "category": {
+      "type": "object"
+    },
+    "versionList": {
+      "type": "object"
+    }
+  }
+
+}
